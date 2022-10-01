@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Mapleland's coding island
+
+Skilled at Java
+
+Working hard for Olympiad Mathmetics.
 
 <!--
 **nothing-7011/nothing-7011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
